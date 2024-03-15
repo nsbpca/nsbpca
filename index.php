@@ -134,8 +134,8 @@ if (!isset($_SESSION['username'])) {
                             <h2 class="header-title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.5s">Selamat datang Kembali!</h2>
                             <h3 class="header-sub-title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s">di Syienta NSB Pecangaan (DEMO)</h3>
                             <a href="nusamba/production/login.php" class="main-btn wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="1.1s">Laporan Bidang Operasional</a>
-                            <a href="restapi/rest-client/" class="main-btn wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="1.1s">Laporan Bidang AO/FO</a>
-                            <a href="monitoring_nasabah/" class="main-btn wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="1.1s">Laporan Kunjungan</a>
+                            <a href="restapi/rest-client/index.php" class="main-btn wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="1.1s">Laporan Bidang AO/FO</a>
+                            <a href="monitoring_nasabah/index.php" class="main-btn wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="1.1s">Laporan Kunjungan</a>
                             <a href="dashboard_direksi" class="main-btn wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="1.1s">Dashboard Kinerja</a>
                             <a href="nusamba/production/tracking_berkas.php" class="main-btn wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="1.1s">Tracking Pengajuan</a>
                             <a href="itp/" class="main-btn wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="1.1s">Informasi Tunggakan Pinjaman</a>
